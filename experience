@@ -1,0 +1,4 @@
+本地切远程分支
+1、远程建分支 dev_heisback
+2、本地 git fetch origin
+3、git checkout -b dev_heisback origin/dev_heisback
